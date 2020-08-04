@@ -1,0 +1,37 @@
+a:focus{
+    outline:0 ;
+}
+*,
+*:after,
+*:before{
+    margin:0;
+    padding:0;
+    box-sizing:inherit;
+}
+html{
+    font-size:62.5%;
+    box-sizing:border-box;
+}
+
+body{
+    font-size:1.6rem;
+}
+.card {
+    padding:0;
+    margin:5rem 0;
+}
+.card-body{
+    min-height:45vh;
+    padding:0;
+}
+.navbar-brand{
+    font-size:2rem;
+    font-weight: bold;
+}
+.form-custom{
+    width:65rem;
+    margin:3rem auto;
+}
+input{
+    font-size:1.6rem !important;
+}
