@@ -31,7 +31,7 @@
             <input type="text" name="username" class="form-control" id="username" >
 
             <label for="email" class="form-label">Email Address</label>
-            <input type="email" name="email" class="form-control" id="email" >
+            <input type="text" name="email" class="form-control" id="email" >
 
 
             <label for="pass" class="form-label">Password</label>

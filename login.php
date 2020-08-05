@@ -23,7 +23,7 @@
     ?>
     <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="POST">
         <div class="form-group form-custom">
-            <label for="email" class="form-label">Email Address</label>
+            <label for="text" class="form-label">Email Address</label>
             <input type="text" name="email" class="form-control" id="email">
             <label for="pass" class="form-label">Password</label>
             <input type="password" name="pass" class="form-control" id="pass">
