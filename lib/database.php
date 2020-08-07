@@ -1,9 +1,9 @@
 <?php 
     class database{
-        private $hostdb = "sql301.epizy.com";
-        private $userdb = "epiz_25147164";
-        private $passdb = "3VyemvlB565tjB";
-        private $namedb = "epiz_25147164_db_lr";
+        private $hostdb = "localhost";
+        private $userdb = "yeasin";
+        private $passdb = "admin";
+        private $namedb = "db_lr";
         public $pdo;
 
         public function __construct(){
